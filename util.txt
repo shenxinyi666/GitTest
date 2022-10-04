@@ -1,3 +1,6 @@
 公共库
 
 公共库新增功能
+
+function login()
+
